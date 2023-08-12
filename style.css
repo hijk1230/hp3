@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+/* common */
+h1,h2,h3{
+  margin: 0;
+}
+img{
+  font-size: 0;
+}
+li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+/* header */
+
+/* header end */
+
+
+
+
+
+
+
+
+
+.flex-container {
+    display: flex;
+    justify-content: space-around; 
+    gap: 15px; 
+}
+
+.list-container ul {
+    list-style: none;
+    padding: 0;
+}
+
+.list-container ul li a {
+    text-decoration: none; 
+}
+
